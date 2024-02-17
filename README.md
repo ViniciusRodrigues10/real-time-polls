@@ -16,7 +16,8 @@ utilização para administradores e participantes.</p>
 3. [Pré-requisitos e como rodar a aplicação](#pré-requisitos-e-como-rodar-a-aplicação)
 4. [Rodando o Back End (servidor)](#rodando-o-back-end-servidor)
 5. [Tecnologias utilizadas](#tecnologias-utilizadas)
-6. [Autor](#autor)
+6. [Resultado](#resultado)
+7. [Autor](#autor)
 
 <br/>
 <br/>
@@ -32,7 +33,9 @@ utilização para administradores e participantes.</p>
 ### Features
 
 - [x] Criar votação
-- [x] Votar 
+- [x] Votar
+- [x] Banco de dados
+- [x] Comunicação via Websocket
 - [ ] Desenvolver frontend
 
 <br/>
@@ -82,6 +85,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Redis](https://redis.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Websocket](https://www.npmjs.com/package/@fastify/websocket)
+
+<br/>
+<br/>
+
+### Resultado
+
+<br/>
+<br/>
+
+https://github.com/ViniciusRodrigues10/real-time-polls/assets/76957963/8950f1ff-a48c-4b4d-8072-dc47a6640f46
 
 <br/>
 <br/>
