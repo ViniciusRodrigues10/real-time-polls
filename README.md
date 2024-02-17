@@ -6,18 +6,21 @@
 pesquisas de opinião e decisões em grupos. Utilizando tecnologias modernas, o sistema oferece uma plataforma segura, escalável e de fácil 
 utilização para administradores e participantes.</p>
 
-<!--Tabela de conteúdos
-=================
-<!--ts-->
-   <!--* [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+### Tabela de conteúdos
+
+1. [Status do Projeto](#status-do-projeto)
+2. [Features](#features)
+3. [Pré-requisitos e como rodar a aplicação](#pré-requisitos-e-como-rodar-a-aplicação)
+4. [Rodando o Back End (servidor)](#rodando-o-back-end-servidor)
+5. [Tecnologias utilizadas](#tecnologias-utilizadas)
+6. [Autor](#autor)
+
+
 
 <br/>
 <br/>
 
-### ✅ Status do Projeto
+### Status do Projeto
 <h4 align=""> 
 	🚧  Real Time Polls 🚀 Em construção...  🚧
 </h4>
@@ -25,7 +28,7 @@ utilização para administradores e participantes.</p>
 <br/>
 <br/>
 
-### ✅ Features
+### Features
 
 - [x] Criar votação
 - [x] Votar 
@@ -34,7 +37,7 @@ utilização para administradores e participantes.</p>
 <br/>
 <br/>
 
-### ✅ Pré-requisitos e como rodar a aplicação
+### Pré-requisitos e como rodar a aplicação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Docker](https://docs.docker.com/engine/install/). 
@@ -43,7 +46,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 <br/>
 <br/>
 
-### 🎲 Rodando o Back End (servidor)
+### Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
@@ -65,7 +68,7 @@ $ npm run dev
 <br/>
 <br/>
 
-### 🛠 Tecnologias utilizadas
+### Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -82,12 +85,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br/>
 <br/>
 
-### ✅ Autor
+### Autor
 
-<a href="www.linkedin.com/in/viniciusgonzagacavalcante">
+<a href="https://www.linkedin.com/in/viniciusgonzagacavalcante/">
 	<!-- <img src="https://avatars.githubusercontent.com/u/76957963?v=4" style="border-radius: 50%;" width="100px;" alt=""/> -->
 	<img src="https://github.com/ViniciusRodrigues10/real-time-polls/assets/76957963/150fca30-7a34-46a6-826e-74b812fc4329" style="border-radius: 50%;" width="100px;" alt=""/>
- <br />
- <sub><b>Vinícius Rodrigues</b></sub></a> <a href="www.linkedin.com/in/viniciusgonzagacavalcante" title="=Linkedin">🚀</a>
- 
+<br />
+	
+<sub><b>Vinícius Rodrigues</b></sub></a> <a href="https://www.linkedin.com/in/viniciusgonzagacavalcante/" title="vinicius-linkedin">
+
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.gonzaga-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:vinicius.gonzaga@academico.ifpb.edu.br)
