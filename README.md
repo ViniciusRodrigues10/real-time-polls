@@ -6,6 +6,9 @@
 pesquisas de opinião e decisões em grupos. Utilizando tecnologias modernas, o sistema oferece uma plataforma segura, escalável e de fácil 
 utilização para administradores e participantes.</p>
 
+<br/>
+<br/>
+
 ### Tabela de conteúdos
 
 1. [Status do Projeto](#status-do-projeto)
@@ -14,8 +17,6 @@ utilização para administradores e participantes.</p>
 4. [Rodando o Back End (servidor)](#rodando-o-back-end-servidor)
 5. [Tecnologias utilizadas](#tecnologias-utilizadas)
 6. [Autor](#autor)
-
-
 
 <br/>
 <br/>
