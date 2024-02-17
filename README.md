@@ -63,7 +63,7 @@ $ cd real-time-polls
 $ npm install
 
 # Rode o docker 
-$ docker compose -d 
+$ docker compose up -d
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
