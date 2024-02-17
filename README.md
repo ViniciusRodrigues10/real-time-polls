@@ -91,9 +91,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Resultado
 
-<br/>
-<br/>
-
 https://github.com/ViniciusRodrigues10/real-time-polls/assets/76957963/8950f1ff-a48c-4b4d-8072-dc47a6640f46
 
 <br/>
@@ -106,6 +103,8 @@ https://github.com/ViniciusRodrigues10/real-time-polls/assets/76957963/8950f1ff-
 	<img src="https://github.com/ViniciusRodrigues10/real-time-polls/assets/76957963/150fca30-7a34-46a6-826e-74b812fc4329" style="border-radius: 50%;" width="100px;" alt=""/>
 <br />
 	
-<sub><b>Vinícius Rodrigues</b></sub></a> <a href="https://www.linkedin.com/in/viniciusgonzagacavalcante/" title="vinicius-linkedin">
+<a href="https://www.linkedin.com/in/viniciusgonzagacavalcante/" title="vinicius-linkedin">
+  <sub><b>Vinícius Rodrigues</b></sub>
+</a>
 
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.gonzaga-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:vinicius.gonzaga@academico.ifpb.edu.br)
